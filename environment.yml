@@ -4,6 +4,7 @@ channels:
   - conda-forge
 
 dependencies:
+  - python=3.8
   - scikit-learn
   - pandas >= 1
   - conda-forge::pandas-profiling >= 2.5
