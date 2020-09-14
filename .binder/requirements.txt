@@ -1,4 +1,5 @@
 numpy
+jupytext
 #scikit-learn
 #pandas
 #pandas-profiling
