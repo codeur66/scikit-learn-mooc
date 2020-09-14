@@ -2,6 +2,6 @@
 jupyter lab build --dev-build=False  --minimize=False
 
 
-echo 'export OMP_NUM_THREADS=2' >> ~/.bashrc
-echo 'export OPENBLAS_NUM_THREADS=2' >> ~/.bashrc
-echo 'export MKL_NUM_THREADS=2' >> ~/.bashrc
+echo 'export OMP_NUM_THREADS=2' >> ~/.profile
+echo 'export OPENBLAS_NUM_THREADS=2' >> ~/.profile
+echo 'export MKL_NUM_THREADS=2' >> ~/.profile
