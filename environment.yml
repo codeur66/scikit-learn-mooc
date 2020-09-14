@@ -1,5 +1,8 @@
 name: scikit-learn-tutorial
 
+channels:
+  - conda-forge
+
 dependencies:
   - python=3.8
   - scikit-learn
@@ -9,3 +12,4 @@ dependencies:
   - seaborn
   - jupyterlab
   - notebook
+  - jupytext
