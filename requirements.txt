@@ -7,3 +7,5 @@ plotly
 jupyterlab
 notebook
 jupytext
+jupyter-offlinenotebook
+jupyterlab-jupytext
